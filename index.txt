@@ -1,7 +1,6 @@
 Cryptex - Buy & Sell Digital Assets In The cryptex
 
 
-
 #---------- HEADER ----------#
 
 alt = Cryptex logo
