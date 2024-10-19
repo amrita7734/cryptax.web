@@ -1,10 +1,9 @@
-
+<div>
   <h2 align="center">Cryptex - Cryptocurrency Website</h2>
-
-  Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://github.com/amrita7734/cryptax.web"><strong>
-</div>
+Cryptex is a fully responsive cryptocurrency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+ <a href="https://github.com/amrita7734/cryptax.web"><strong>
+   
+ </div>
 
 <br />
 
@@ -14,7 +13,7 @@
 
 ### Run Locally
 
-To run **Cryptex** locally, run this command on your git bash:
+To run **Cryptex** locally, run this command on git bash:
 
 Linux and macOS:
 
